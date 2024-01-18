@@ -1,3 +1,6 @@
 [submodule "mappings"]
 	path = mappings
 	url = https://github.com/Mojamp-Mc-Storage/mappings.git
+[submodule "gamejars"]
+	path = gamejars
+	url = https://github.com/Mojamp-Mc-Storage/game-jars.git
