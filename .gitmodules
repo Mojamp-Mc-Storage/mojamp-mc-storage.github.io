@@ -4,3 +4,6 @@
 [submodule "gamejars"]
 	path = gamejars
 	url = https://github.com/Mojamp-Mc-Storage/game-jars.git
+[submodule "api"]
+	path = api
+	url = https://github.com/Mojamp-Mc-Storage/api.git
